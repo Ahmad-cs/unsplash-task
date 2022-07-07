@@ -46,7 +46,7 @@ if (!images) {
              />            
              </ImageListItem>            
       );  
-      })};
+      })}
       </ImageList>
       </Grid>
       </Container>
